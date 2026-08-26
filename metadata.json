@@ -1,0 +1,9 @@
+{
+  "name": "Wi-Fi Spark",
+  "description": "A professional and elegant Wi-Fi QR code generator that helps guests connect to your network instantly without typing long passwords.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
